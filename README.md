@@ -22,4 +22,8 @@ Team Working:
 1-Zahaa muhanna
 2-Mohammad shawahni
 3-Omar kukhun
-note: Cypress didnt work in Omar pc so he upload it from Zahaa device.
+
+note: Cypress didnt work in Omar pc so he upload it from Zahaa device and we did the test by E2E testing.
+
+
+
