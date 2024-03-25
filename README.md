@@ -8,6 +8,6 @@ we worked them in Excel sheets that u have link for it.
 As Automation testing we choose Search feature to do the testing on.
 so Mohammad took first 4 scripts (Search for a valid keyword, Search for a valid city name, Search for a category, Search for a specific version).
 Zahaa took second 3 scripts ( Search for a multiple keywords, Search for an empty string, Search for a non-existent keyword).
-and Omar took ;ast 3 scripts (Search for an invalid company name,  Search for a category with invalid characters,  Search for a multiple invalid keywords).
+and Omar took last 3 scripts (Search for an invalid company name,  Search for a category with invalid characters,  Search for a multiple invalid keywords).
 
 note: Cypress didnt work in Omar pc so he upload it from Zahaa device.
