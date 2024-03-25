@@ -10,4 +10,8 @@ so Mohammad took first 4 scripts (Search for a valid keyword, Search for a valid
 Zahaa took second 3 scripts ( Search for a multiple keywords, Search for an empty string, Search for a non-existent keyword).
 and Omar took last 3 scripts (Search for an invalid company name,  Search for a category with invalid characters,  Search for a multiple invalid keywords).
 
+Team Working:
+1-Zahaa muhanna
+2-Mohammad shawahni
+3-Omar kukhun
 note: Cypress didnt work in Omar pc so he upload it from Zahaa device.
